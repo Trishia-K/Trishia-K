@@ -1,6 +1,6 @@
 # Hi, I'm Trishia Kobumanzi
-#💫 About Me:
-I am a third year computer science student interested in fintech, data science and software development.
+# 💫 About Me:
+<br>I am a third year computer science student interested in fintech, data science and software development.
 <br>I'm currently learning Python and Java script.
 <br>I am working on python projects focused on fintech.
 <br>Ask me about website design and development.
